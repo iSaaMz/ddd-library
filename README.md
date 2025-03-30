@@ -5,7 +5,7 @@ Ce projet est une API développée en **TypeScript** avec **Node.js**, dans le c
 ## 📖 Cours inclus dans le repository
 
 Le fichier PDF du cours est inclus dans ce repository :
-`FYC_Document_De_Suivi.pdf`
+`TypeScript et Domain-Driven Design.pdf`
 
 Ce document présente :
 * une introduction détaillée à TypeScript et à son écosystème,
