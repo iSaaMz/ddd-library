@@ -1,2 +1,11 @@
-# ddd-library
-API de plateforme de gestion de bibliothèque permettant d'emprunter et de retourner des livres
+### npm install
+
+### npm run dev
+
+### API
+
+http://localhost:3000/api/return (POST)
+
+http://localhost:3000/api/borrow (POST)
+
+http://localhost:3000/api/books (GET)
